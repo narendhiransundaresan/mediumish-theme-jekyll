@@ -3,7 +3,7 @@ name: "Narendhiran"
 description: "Naren's trial blog before creating the original one"
 meta_description: "Naren's trial blog before creating the original one"
 logo: 'assets/images/logo1.png'
-favicon: 'assets/images/logo1.png'
+favicon: 'assets/images/Favicon.ico'
 baseurl: /
 google_analytics: ''
 disqus: ''
