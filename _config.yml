@@ -3,7 +3,7 @@ name: "Naren's Blog"
 description: "an armchair marketer's hustles and opinions"
 meta_description: "an armchair marketer's hustles and opinions"
 logo: 'assets/images/logo1.png'
-favicon: 'assets/images/logo1.png'
+favicon: 'assets/images/Favicon.ico'
 baseurl: /
 google_analytics: ''
 disqus: ''
