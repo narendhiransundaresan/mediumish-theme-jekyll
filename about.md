@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-comments: true
+comments: false
 ---
 Summary 
 Entrepreneur, Marketing professional with 4+ years of experience in designing & delivering marketing campaigns
