@@ -11,8 +11,8 @@ mailchimp-list: ''
 
 # Authors
 authors:
-  Naren:
-    name: Naren
+  naren:
+    name: naren
     display_name: Naren
     gravatar: f767c2b5c1184982344ced80f8712a81
     email: narendhiran.s@gmail.com
