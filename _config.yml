@@ -1,7 +1,7 @@
 # Site
-name: "Naren's Blog"
-description: "an armchair marketer's hustles and opinions"
-meta_description: "an armchair marketer's hustles and opinions"
+name: "narenism"
+description: "gospels of an armchair marketer"
+meta_description: "gospels of an armchair marketer"
 logo: 'assets/images/logo1.png'
 favicon: 'assets/images/Favicon.ico'
 baseurl: /
