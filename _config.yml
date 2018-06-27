@@ -1,9 +1,9 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Narendhiran"
+description: "Naren's trial blog before creating the original one"
+meta_description: "Naren's trial blog before creating the original one"
 logo: 'assets/images/logo1.png'
-favicon: 'assets/images/Favicon.ico'
+favicon: 'assets/images/logo1.png'
 baseurl: /
 google_analytics: ''
 disqus: ''
