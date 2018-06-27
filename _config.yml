@@ -11,9 +11,9 @@ mailchimp-list: ''
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Naren:
+    name: Naren
+    display_name: Naren
     gravatar: f767c2b5c1184982344ced80f8712a81
     email: narendhiran.s@gmail.com
     web: https://www.linkedin.com/in/narendhiran-s/ 
