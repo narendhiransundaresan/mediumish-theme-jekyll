@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick Start Guide"
 author: naren
-categories: [ marketing ]
+categories: [ jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
